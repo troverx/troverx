@@ -29,7 +29,7 @@ Construyo y optimizo sitios web para negocios de turismo, hotelería y servicios
 
 ### 🎮 Proyecto destacado
 
-**Wipe Night** — Rol táctico por turnos compatible con la quinta edición (SRD 5.2.1), hecho en Godot 4. Dados de 20 caras que se lanzan con el dedo, un tutorial para quien nunca jugó rol y partidas en el navegador, en PC y en el celular.
+**[Wipe Night](https://github.com/troverx/wipe-night-showcase)** — Rol táctico por turnos compatible con la quinta edición (SRD 5.2.1), hecho en Godot 4. Dados de 20 caras que se lanzan con el dedo, un tutorial para quien nunca jugó rol y partidas en el navegador, en PC y en el celular.
 *Turn-based tactical RPG, 5E-compatible, built in Godot 4 and playable in the browser.*
 🌐 [wipenight.com](https://wipenight.com)
 
